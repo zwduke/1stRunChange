@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190576615318",
+    "firebase_url": "https://strun-77959.firebaseio.com",
+    "project_id": "strun-77959",
+    "storage_bucket": "strun-77959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190576615318:android:59cab9ad37af2239b047b7",
+        "android_client_info": {
+          "package_name": "com.momo.a1strun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190576615318-0skflbuo6f88b3uua0g9ev8q87k1n643.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaG5wYbguowTkHaDGiOwyt3QmXtMDN4XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190576615318-0skflbuo6f88b3uua0g9ev8q87k1n643.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
